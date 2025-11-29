@@ -3,7 +3,7 @@
 ![Profile Banner](profile-banner.png)
 
 # Hi, I'm Lee 👋
-### Aspiring C# Developer
+### Aspiring Software Developer
 
 **Retraining via Just IT Skills Bootcamp (Nov 2025 – Jan 2026)**
 
