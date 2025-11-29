@@ -18,6 +18,8 @@
 
 I am a Junior Developer in training, currently transitioning into the tech industry through an intensive bootcamp. I am focused on backend development with **C#** and **.NET**, but I am building a solid foundation in full-stack web technologies.
 
+I am still trying to get to grips with git and github.
+
 📍 **Location:** UK
 💼 **Availability:** Open for Junior / Graduate / Apprenticeship roles starting **January 2026**.
 
